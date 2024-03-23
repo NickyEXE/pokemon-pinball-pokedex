@@ -1,0 +1,70 @@
+[
+    {
+        "img": "https://www.serebii.net/pinball/areas/pallettown.png",
+        "name": "Pallet Town"
+    },
+    {
+        "img": "https://www.serebii.net/pinball/areas/viridianforest.png",
+        "name": "Viridian Forest"
+    },
+    {
+        "img": "https://www.serebii.net/pinball/areas/pewtercity.png",
+        "name": "Pewter City"
+    },
+    {
+        "img": "https://www.serebii.net/pinball/areas/mt.moon.png",
+        "name": "Mt. Moon"
+    },
+    {
+        "img": "https://www.serebii.net/pinball/areas/ceruleancity.png",
+        "name": "Cerulean City"
+    },
+    {
+        "img": "https://www.serebii.net/pinball/areas/vermilioncityseaside.png",
+        "name": "Vermilion City Seaside"
+    },
+    {
+        "img": "https://www.serebii.net/pinball/areas/vermilioncitystreets.png",
+        "name": "Vermilion City Streets"
+    },
+    {
+        "img": "https://www.serebii.net/pinball/areas/rocktunnel.png",
+        "name": "Rock Mountain"
+    },
+    {
+        "img": "https://www.serebii.net/pinball/areas/lavendertown.png",
+        "name": "Lavender Town"
+    },
+    {
+        "img": "https://www.serebii.net/pinball/areas/celadoncity.png",
+        "name": "Celadon City"
+    },
+    {
+        "img": "https://www.serebii.net/pinball/areas/cyclingroad.png",
+        "name": "Cycling Road"
+    },
+    {
+        "img": "https://www.serebii.net/pinball/areas/fuchsiacity.png",
+        "name": "Fuchsia City"
+    },
+    {
+        "img": "https://www.serebii.net/pinball/areas/safarizone.png",
+        "name": "Safari Zone"
+    },
+    {
+        "img": "https://www.serebii.net/pinball/areas/saffroncity.png",
+        "name": "Saffron City"
+    },
+    {
+        "img": "https://www.serebii.net/pinball/areas/seafoamislands.png",
+        "name": "Seafoam Island"
+    },
+    {
+        "img": "https://www.serebii.net/pinball/areas/cinnabarisland.png",
+        "name": "Cinnabar Island"
+    },
+    {
+        "img": "https://www.serebii.net/pinball/areas/indigoplateau.png",
+        "name": "Indigo Plateau"
+    }
+]
