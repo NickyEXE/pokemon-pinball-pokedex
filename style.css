@@ -1,3 +1,6 @@
+h1 {
+    text-align: center;
+}
 body {
     font-family: sans-serif
 }
@@ -35,6 +38,17 @@ main {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
+}
+
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: rgb(0, 94, 255);
+}
+
+.pokedex {
     background-color: red;
 }
 
@@ -56,6 +70,17 @@ main {
     object-fit: cover;
     cursor: pointer;
     border-bottom: 3px solid black;
+}
+
+h2 {
+    margin: 0;
+    padding: 1em;
+}
+
+h3 {
+    margin: 0;
+    background-color: yellow;
+    text-align: center;
 }
 
 .card h2 {
