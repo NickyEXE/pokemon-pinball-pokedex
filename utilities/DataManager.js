@@ -38,6 +38,6 @@ class DataManager {
     }
     
     outstandingPokemonAtLocation = (table, location) => {
-        return this.outstandingPokemonCheckboxes.filter(checkbox => checkbox.locationData[table].includes(location)).map(cb => cb.pokemon)
+        return this.outstandingPokemonCheckboxes.filter(checkbox => checkbox.locationData[table].includes(location))
     }
 }
