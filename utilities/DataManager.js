@@ -32,7 +32,7 @@ class DataManager {
         this.blueTableLocs ||= [...new Set(this.pokemons.map(pokemon => pokemon.locations.blueTable).flat())].sort()
         return this.blueTableLocs
     }
-
+    
     get outstandingPokemonCheckboxes(){
         return PokemonCheckbox.all.filter(checkbox => !checkbox.checked)
     }
