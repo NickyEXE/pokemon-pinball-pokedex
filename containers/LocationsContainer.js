@@ -2,6 +2,7 @@ class LocationsContainer {
     render(){
         const main = document.querySelector("main") 
         main.innerHTML = `
+        <center>This lists all Pokemon you haven't yet caught, by location. Click on a Pokemon to catch it. Caught pokemon will appear grayed out.</center>
         <div class='locations'>
             <center><h2 class="red">Red Table</h2></center>
             <div id="red" class="red"></div>
