@@ -1,0 +1,27 @@
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.card {
+    border: 3px solid;
+    border-radius: 1em;
+    max-width: 350px;
+    margin: 1em;
+}
+
+.card.caught{
+    background-color: gray;
+}
+
+.card img {
+    width: 150px;
+    object-fit: cover;
+    cursor: pointer;
+}
+
+.card h2 {
+    font-size: 1em;
+    text-align: center;
+}

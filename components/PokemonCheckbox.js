@@ -5,6 +5,7 @@ class PokemonCheckbox{
     constructor(pokemon){
         this.pokemon = pokemon
         this.constructor.all.push(this)
+        this.checked = false
     }
 
     static renderAll(form){
@@ -16,23 +17,39 @@ class PokemonCheckbox{
         const ids = dataManager.savedPokemonIds
         this.all.forEach(checkbox => {
             if(checkbox.pokemon.number == ids[0]){
+                checkbox.checked = true
+                checkbox.renderContent()
                 ids.shift()
-                checkbox.input.checked = true
             }
         })
     }
 
+    static savePokemons(){
+        const ids = this.all.filter(checkbox => checkbox.checked).map(checkbox => checkbox.pokemon.number)
+        dataManager.savePokemons(ids)
+    }
+
     render(){
-        const el = document.createElement("div")
-        el.classList.add("pokemonCheckbox")
-        this.input = document.createElement("input")
-        this.input.setAttribute("name", "pokemonInput")
-        this.input.setAttribute("type", "checkbox")
-        this.input.setAttribute("value", this.pokemon.number)
-        const label = document.createElement("label")
-        label.setAttribute("for", "pokemonInput")
-        label.innerText = `${this.pokemon.number} - ${this.pokemon.name}`
-        el.append(this.input, label)
-        return el
+        this.el = document.createElement("div")
+        this.el.classList.add("card")
+        this.el.addEventListener("click", this.handleClick)
+        this.renderContent()
+        return this.el
+    }
+
+    handleClick = () => {
+        this.checked = !this.checked
+        this.renderContent()
+        this.constructor.savePokemons()
+    }
+
+    renderContent(){
+        const {name, image, number} = this.pokemon
+        if (this.checked) {
+            this.el.classList.add("caught")
+        } else {
+            this.el.classList.remove("caught")
+        }
+        this.el.innerHTML = `<img alt=${name} src='${image}'/><h2>${number}: ${name}</h2>`
     }
 }
