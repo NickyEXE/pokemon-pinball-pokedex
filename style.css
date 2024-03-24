@@ -20,6 +20,10 @@ header div {
     margin-bottom: 1em;
     padding: .5em;
     border: 3px solid black;
+    background-color: #7d030378;
+}
+
+header div.selected {
     background-color: red;
 }
 

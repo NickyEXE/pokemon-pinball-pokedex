@@ -28,6 +28,16 @@ class PokemonCheckbox{
         const ids = this.all.filter(checkbox => checkbox.checked).map(checkbox => checkbox.pokemon.number)
         dataManager.savePokemons(ids)
     }
+    
+    get locationData(){
+        if (this.loc){}
+        else if (this.pokemon.locations.evolutionOf){
+            this.loc = this.constructor.all.find(pokemonCheckbox => pokemonCheckbox.pokemon.name == this.pokemon.locations.evolutionOf).locationData
+        } else {
+            this.loc = this.pokemon.locations
+        }
+        return this.loc
+    }
 
     render(){
         this.el = document.createElement("div")

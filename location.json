@@ -66,5 +66,9 @@
     {
         "img": "https://www.serebii.net/pinball/areas/indigoplateau.png",
         "name": "Indigo Plateau"
+    },
+    {
+        "img": "https://archives.bulbagarden.net/media/upload/c/cd/Pinball_Blue_Viridian_City.png",
+        "name": "Viridian City"
     }
 ]
