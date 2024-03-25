@@ -40,7 +40,6 @@
         "image": "https://www.serebii.net/pinball/pokemon/004.png",
         "locations": {
             "redTable": [
-                "Pallet Town",
                 "Pallet Town"
             ],
             "blueTable": [],
@@ -109,7 +108,6 @@
                 "Viridian Forest"
             ],
             "blueTable": [
-                "Viridian Forest",
                 "Viridian Forest"
             ],
             "evolutionOf": ""
@@ -141,7 +139,6 @@
         "image": "https://www.serebii.net/pinball/pokemon/013.png",
         "locations": {
             "redTable": [
-                "Viridian Forest",
                 "Viridian Forest"
             ],
             "blueTable": [
@@ -176,7 +173,6 @@
         "image": "https://www.serebii.net/pinball/pokemon/016.png",
         "locations": {
             "redTable": [
-                "Viridian Forest",
                 "Viridian Forest"
             ],
             "blueTable": [
@@ -211,7 +207,6 @@
         "image": "https://www.serebii.net/pinball/pokemon/019.png",
         "locations": {
             "redTable": [
-                "Pallet Town",
                 "Pallet Town"
             ],
             "blueTable": [
@@ -236,8 +231,6 @@
         "image": "https://www.serebii.net/pinball/pokemon/021.png",
         "locations": {
             "redTable": [
-                "Pewter City",
-                "Cycling Road",
                 "Pewter City",
                 "Cycling Road",
                 "Indigo Plateau"
@@ -266,12 +259,9 @@
         "locations": {
             "redTable": [
                 "Pewter City",
-                "Vermilion City Seaside",
-                "Pewter City",
                 "Vermilion City Seaside"
             ],
             "blueTable": [
-                "Saffron City",
                 "Saffron City"
             ],
             "evolutionOf": ""
@@ -293,11 +283,9 @@
         "image": "https://www.serebii.net/pinball/pokemon/025.png",
         "locations": {
             "redTable": [
-                "Viridian Forest",
                 "Viridian Forest"
             ],
             "blueTable": [
-                "Viridian Forest",
                 "Viridian Forest"
             ],
             "evolutionOf": ""
@@ -324,8 +312,6 @@
             "blueTable": [
                 "Vermilion City Streets",
                 "Saffron City",
-                "Vermilion City Streets",
-                "Saffron City",
                 "Indigo Plateau"
             ],
             "evolutionOf": ""
@@ -349,7 +335,6 @@
             "redTable": [],
             "blueTable": [
                 "Viridian City",
-                "Safari Zone",
                 "Safari Zone"
             ],
             "evolutionOf": ""
@@ -381,8 +366,6 @@
         "image": "https://www.serebii.net/pinball/pokemon/032.png",
         "locations": {
             "redTable": [
-                "Pallet Town",
-                "Safari Zone",
                 "Pallet Town",
                 "Safari Zone"
             ],
@@ -420,7 +403,6 @@
         "locations": {
             "redTable": [],
             "blueTable": [
-                "Mt Moon",
                 "Mt. Moon"
             ],
             "evolutionOf": ""
@@ -442,12 +424,9 @@
         "image": "https://www.serebii.net/pinball/pokemon/037.png",
         "locations": {
             "redTable": [
-                "Cinnabar Island",
                 "Cinnabar Island"
             ],
             "blueTable": [
-                "Celadon City",
-                "Cinnabar Island",
                 "Celadon City",
                 "Cinnabar Island"
             ],
@@ -470,7 +449,6 @@
         "image": "https://www.serebii.net/pinball/pokemon/039.png",
         "locations": {
             "redTable": [
-                "Pewter City",
                 "Pewter City"
             ],
             "blueTable": [],
@@ -494,7 +472,6 @@
         "locations": {
             "redTable": [],
             "blueTable": [
-                "Mt Moon",
                 "Mt. Moon"
             ],
             "evolutionOf": ""
@@ -516,7 +493,6 @@
         "image": "https://www.serebii.net/pinball/pokemon/043.png",
         "locations": {
             "redTable": [
-                "Cerulean City",
                 "Cerulean City"
             ],
             "blueTable": [],
@@ -549,11 +525,9 @@
         "image": "https://www.serebii.net/pinball/pokemon/046.png",
         "locations": {
             "redTable": [
-                "Safari Zone",
                 "Safari Zone"
             ],
             "blueTable": [
-                "Mt Moon",
                 "Mt. Moon",
                 "Safari Zone"
             ],
@@ -598,12 +572,10 @@
         "image": "https://www.serebii.net/pinball/pokemon/050.png",
         "locations": {
             "redTable": [
-                "Rock Mountain",
-                "Rock Tunnel"
+                "Rock Mountain"
             ],
             "blueTable": [
-                "Rock Mountain",
-                "Rock Tunnel"
+                "Rock Mountain"
             ],
             "evolutionOf": ""
         }
@@ -625,8 +597,6 @@
         "locations": {
             "redTable": [],
             "blueTable": [
-                "Cerulean City",
-                "Celadon City",
                 "Cerulean City",
                 "Celadon City"
             ],
@@ -672,11 +642,9 @@
         "image": "https://www.serebii.net/pinball/pokemon/056.png",
         "locations": {
             "redTable": [
-                "Cerulean City",
                 "Cerulean City"
             ],
             "blueTable": [
-                "Celadon City",
                 "Celadon City"
             ],
             "evolutionOf": ""
@@ -698,7 +666,6 @@
         "image": "https://www.serebii.net/pinball/pokemon/058.png",
         "locations": {
             "redTable": [
-                "Cinnabar Island",
                 "Cinnabar Island"
             ],
             "blueTable": [],
@@ -721,7 +688,6 @@
         "image": "https://www.serebii.net/pinball/pokemon/060.png",
         "locations": {
             "redTable": [
-                "Pallet Town",
                 "Pallet Town"
             ],
             "blueTable": [
@@ -757,11 +723,9 @@
         "image": "https://www.serebii.net/pinball/pokemon/063.png",
         "locations": {
             "redTable": [
-                "Cerulean City",
                 "Cerulean City"
             ],
             "blueTable": [
-                "Cerulean City",
                 "Cerulean City"
             ],
             "evolutionOf": ""
@@ -794,11 +758,11 @@
         "locations": {
             "redTable": [
                 "Indigo Plateau",
-                "Rock Tunnel"
+                "Rock Mountain"
             ],
             "blueTable": [
                 "Indigo Plateau",
-                "Rock Tunnel"
+                "Rock Mountain"
             ],
             "evolutionOf": ""
         }
@@ -830,7 +794,6 @@
         "locations": {
             "redTable": [],
             "blueTable": [
-                "Cerulean City",
                 "Cerulean City"
             ],
             "evolutionOf": ""
@@ -894,8 +857,7 @@
             ],
             "blueTable": [
                 "Indigo Plateau",
-                "Mt. Moon",
-                "Indigo Plateau"
+                "Mt. Moon"
             ],
             "evolutionOf": ""
         }
@@ -926,11 +888,9 @@
         "image": "https://www.serebii.net/pinball/pokemon/077.png",
         "locations": {
             "redTable": [
-                "Cinnabar Island",
                 "Cinnabar Island"
             ],
             "blueTable": [
-                "Cinnabar Island",
                 "Cinnabar Island"
             ],
             "evolutionOf": ""
@@ -952,10 +912,10 @@
         "image": "https://www.serebii.net/pinball/pokemon/079.png",
         "locations": {
             "redTable": [
-                "Rock Tunnel"
+                "Rock Mountain"
             ],
             "blueTable": [
-                "Rock Tunnel"
+                "Rock Mountain"
             ],
             "evolutionOf": ""
         }
@@ -976,7 +936,6 @@
         "image": "https://www.serebii.net/pinball/pokemon/081.png",
         "locations": {
             "redTable": [
-                "Lavender Town",
                 "Lavender Town"
             ],
             "blueTable": [],
@@ -999,11 +958,9 @@
         "image": "https://www.serebii.net/pinball/pokemon/083.png",
         "locations": {
             "redTable": [
-                "Vermilion City Seaside",
                 "Vermilion City Seaside"
             ],
             "blueTable": [
-                "Vermilion City Streets",
                 "Vermilion City Streets"
             ],
             "evolutionOf": ""
@@ -1015,11 +972,9 @@
         "image": "https://www.serebii.net/pinball/pokemon/084.png",
         "locations": {
             "redTable": [
-                "Cycling Road",
                 "Cycling Road"
             ],
             "blueTable": [
-                "Safari Zone",
                 "Safari Zone"
             ],
             "evolutionOf": ""
@@ -1041,8 +996,7 @@
         "image": "https://www.serebii.net/pinball/pokemon/086.png",
         "locations": {
             "redTable": [
-                "Seafoam Islands",
-                "Seafoam Island"
+                "Seafoam Islands"
             ],
             "blueTable": [],
             "evolutionOf": ""
@@ -1088,11 +1042,9 @@
         "image": "https://www.serebii.net/pinball/pokemon/090.png",
         "locations": {
             "redTable": [
-                "Vermilion City Seaside",
                 "Vermilion City Seaside"
             ],
             "blueTable": [
-                "Vermilion City Streets",
                 "Vermilion City Streets"
             ],
             "evolutionOf": ""
@@ -1114,7 +1066,6 @@
         "image": "https://www.serebii.net/pinball/pokemon/092.png",
         "locations": {
             "redTable": [
-                "Lavender Town",
                 "Lavender Town"
             ],
             "blueTable": [],
@@ -1148,13 +1099,11 @@
         "locations": {
             "redTable": [
                 "Indigo Plateau",
-                "Rock Tunnel",
-                "Indigo Plateau"
+                "Rock Mountain"
             ],
             "blueTable": [
                 "Indigo Plateau",
-                "Rock Tunnel",
-                "Indigo Plateau"
+                "Rock Mountain"
             ],
             "evolutionOf": ""
         }
@@ -1190,10 +1139,9 @@
         "locations": {
             "redTable": [
                 "Vermilion City Seaside",
-                "Vermilion City Seaside"
+                "Cycling Road"
             ],
             "blueTable": [
-                "Vermilion City Streets",
                 "Vermilion City Streets"
             ],
             "evolutionOf": ""
@@ -1215,12 +1163,10 @@
         "image": "https://www.serebii.net/pinball/pokemon/100.png",
         "locations": {
             "redTable": [
-                "Rock Mountain",
-                "Rock Tunnel"
+                "Rock Mountain"
             ],
             "blueTable": [
-                "Rock Mountain",
-                "Rock Tunnel"
+                "Rock Mountain"
             ],
             "evolutionOf": ""
         }
@@ -1242,7 +1188,6 @@
         "locations": {
             "redTable": [],
             "blueTable": [
-                "Fuchsia City",
                 "Fuchsia City"
             ],
             "evolutionOf": ""
@@ -1264,7 +1209,6 @@
         "image": "https://www.serebii.net/pinball/pokemon/104.png",
         "locations": {
             "redTable": [
-                "Lavender Town",
                 "Lavender Town"
             ],
             "blueTable": [],
@@ -1288,7 +1232,6 @@
         "locations": {
             "redTable": [],
             "blueTable": [
-                "Saffron City",
                 "Saffron City"
             ],
             "evolutionOf": ""
@@ -1301,7 +1244,6 @@
         "locations": {
             "redTable": [],
             "blueTable": [
-                "Saffron City",
                 "Saffron City"
             ],
             "evolutionOf": ""
@@ -1313,7 +1255,6 @@
         "image": "https://www.serebii.net/pinball/pokemon/108.png",
         "locations": {
             "redTable": [
-                "Cycling Road",
                 "Cycling Road"
             ],
             "blueTable": [],
@@ -1329,7 +1270,6 @@
                 "Cinnabar Island"
             ],
             "blueTable": [
-                "Cinnabar Island",
                 "Cinnabar Island"
             ],
             "evolutionOf": ""
@@ -1351,7 +1291,6 @@
         "image": "https://www.serebii.net/pinball/pokemon/111.png",
         "locations": {
             "redTable": [
-                "Safari Zone",
                 "Safari Zone"
             ],
             "blueTable": [
@@ -1376,11 +1315,9 @@
         "image": "https://www.serebii.net/pinball/pokemon/113.png",
         "locations": {
             "redTable": [
-                "Safari Zone",
                 "Safari Zone"
             ],
             "blueTable": [
-                "Safari Zone",
                 "Safari Zone"
             ],
             "evolutionOf": ""
@@ -1405,7 +1342,6 @@
         "locations": {
             "redTable": [],
             "blueTable": [
-                "Fuchsia City",
                 "Fuchsia City"
             ],
             "evolutionOf": ""
@@ -1417,8 +1353,7 @@
         "image": "https://www.serebii.net/pinball/pokemon/116.png",
         "locations": {
             "redTable": [
-                "Seafoam Islands",
-                "Seafoam Island"
+                "Seafoam Islands"
             ],
             "blueTable": [],
             "evolutionOf": ""
@@ -1441,7 +1376,6 @@
         "locations": {
             "redTable": [],
             "blueTable": [
-                "Fuchsia City",
                 "Fuchsia City"
             ],
             "evolutionOf": ""
@@ -1463,8 +1397,7 @@
         "image": "https://www.serebii.net/pinball/pokemon/120.png",
         "locations": {
             "redTable": [
-                "Seafoam Islands",
-                "Seafoam Island"
+                "Seafoam Islands"
             ],
             "blueTable": [],
             "evolutionOf": ""
@@ -1486,12 +1419,10 @@
         "image": "https://www.serebii.net/pinball/pokemon/122.png",
         "locations": {
             "redTable": [
-                "Rock Mountain",
-                "Rock Tunnel"
+                "Rock Mountain"
             ],
             "blueTable": [
-                "Rock Mountain",
-                "Rock Tunnel"
+                "Rock Mountain"
             ],
             "evolutionOf": ""
         }
@@ -1516,11 +1447,9 @@
         "image": "https://www.serebii.net/pinball/pokemon/124.png",
         "locations": {
             "redTable": [
-                "Cerulean City",
                 "Cerulean City"
             ],
             "blueTable": [
-                "Cerulean City",
                 "Cerulean City"
             ],
             "evolutionOf": ""
@@ -1532,7 +1461,6 @@
         "image": "https://www.serebii.net/pinball/pokemon/125.png",
         "locations": {
             "redTable": [
-                "Lavender Town",
                 "Lavender Town"
             ],
             "blueTable": [],
@@ -1546,7 +1474,6 @@
         "locations": {
             "redTable": [],
             "blueTable": [
-                "Cinnabar Island",
                 "Cinnabar Island"
             ],
             "evolutionOf": ""
@@ -1571,7 +1498,6 @@
         "image": "https://www.serebii.net/pinball/pokemon/128.png",
         "locations": {
             "redTable": [
-                "Safari Zone",
                 "Safari Zone"
             ],
             "blueTable": [],
@@ -1584,11 +1510,9 @@
         "image": "https://www.serebii.net/pinball/pokemon/129.png",
         "locations": {
             "redTable": [
-                "Pewter City",
                 "Pewter City"
             ],
             "blueTable": [
-                "Fuchsia City",
                 "Fuchsia City"
             ],
             "evolutionOf": ""
@@ -1622,11 +1546,9 @@
         "image": "https://www.serebii.net/pinball/pokemon/132.png",
         "locations": {
             "redTable": [
-                "Indigo Plateau",
                 "Indigo Plateau"
             ],
             "blueTable": [
-                "Indigo Plateau",
                 "Indigo Plateau"
             ],
             "evolutionOf": ""
@@ -1639,7 +1561,6 @@
         "locations": {
             "redTable": [],
             "blueTable": [
-                "Celadon City",
                 "Celadon City"
             ],
             "evolutionOf": ""
@@ -1682,7 +1603,6 @@
         "locations": {
             "redTable": [],
             "blueTable": [
-                "Celadon City",
                 "Celadon City"
             ],
             "evolutionOf": ""
@@ -1694,7 +1614,6 @@
         "image": "https://www.serebii.net/pinball/pokemon/138.png",
         "locations": {
             "redTable": [
-                "Cinnabar Island",
                 "Cinnabar Island"
             ],
             "blueTable": [],
@@ -1717,7 +1636,6 @@
         "image": "https://www.serebii.net/pinball/pokemon/140.png",
         "locations": {
             "redTable": [
-                "Cinnabar Island",
                 "Cinnabar Island"
             ],
             "blueTable": [],
@@ -1741,7 +1659,6 @@
         "locations": {
             "redTable": [],
             "blueTable": [
-                "Cinnabar Island",
                 "Cinnabar Island"
             ],
             "evolutionOf": ""
@@ -1753,7 +1670,6 @@
         "image": "https://www.serebii.net/pinball/pokemon/143.png",
         "locations": {
             "redTable": [
-                "Cycling Road",
                 "Cycling Road"
             ],
             "blueTable": [],
@@ -1766,8 +1682,7 @@
         "image": "https://www.serebii.net/pinball/pokemon/144.png",
         "locations": {
             "redTable": [
-                "Seafoam Islands",
-                "Seafoam Island"
+                "Seafoam Islands"
             ],
             "blueTable": [],
             "evolutionOf": ""
@@ -1779,10 +1694,11 @@
         "image": "https://www.serebii.net/pinball/pokemon/145.png",
         "locations": {
             "redTable": [
-                "Lavender Town",
                 "Lavender Town"
             ],
-            "blueTable": [],
+            "blueTable": [
+                "Lavender Town"
+            ],
             "evolutionOf": ""
         }
     },
@@ -1792,11 +1708,9 @@
         "image": "https://www.serebii.net/pinball/pokemon/146.png",
         "locations": {
             "redTable": [
-                "Indigo Plateau",
                 "Indigo Plateau"
             ],
             "blueTable": [
-                "Indigo Plateau",
                 "Indigo Plateau"
             ],
             "evolutionOf": ""
@@ -1843,7 +1757,6 @@
                 "Indigo Plateau"
             ],
             "blueTable": [
-                "Indigo Plateau",
                 "Indigo Plateau"
             ],
             "evolutionOf": ""
